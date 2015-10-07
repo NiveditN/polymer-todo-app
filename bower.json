@@ -1,0 +1,30 @@
+{
+  "name": "polymer-todo-app",
+  "version": "0.0.0",
+  "homepage": "https://github.com/NiveditN/polymer-todo-app",
+  "authors": [
+    "NiveditN <niveditn@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "The Unlicense",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.1.0",
+    "paper-checkbox": "polymerelements/paper-checkbox#^1.0.1",
+    "iron-input": "polymerelements/iron-input#^1.0.0",
+    "paper-input": "polymerelements/paper-input",
+    "paper-drawer-panel": "polymerelements/paper-drawer-panel",
+    "paper-button": "polymerelements/paper-button",
+    "paper-fab": "polymerelements/paper-fab",
+    "paper-menu": "polymerelements/paper-menu",
+    "iron-icons": "polymerelements/iron-icons"
+  }}
